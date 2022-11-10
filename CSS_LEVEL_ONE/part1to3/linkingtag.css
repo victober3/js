@@ -1,0 +1,25 @@
+body{
+    background-image:url(4.jpg);
+    color:yellowgreen;
+       background-repeat: no-repeat; 
+       background-size:  cover;     
+}
+div{
+    color: red
+    ;
+}
+h2{
+    color: orange;
+}
+table{
+    color: blue;
+}
+table thead{
+    color: black;
+}
+ /* table tr{
+    color: brown;
+}  */
+span{
+    color: chartreuse;
+}

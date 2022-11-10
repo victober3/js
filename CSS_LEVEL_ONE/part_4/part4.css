@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+
+div.firstDiv{    
+    color: rgb(255, 136, 0);
+    border-width: thin;
+    border-style: solid;
+    border-color: blue;
+}
+
+div.secondDiv{
+    
+    color: purple ;
+}
+h3.hire{
+    color: rgb(43, 220, 226);
+    margin-left: 100px;
+
+}
+
+#slogan{
+    color: blue;
+    text-decoration: line-through;
+}

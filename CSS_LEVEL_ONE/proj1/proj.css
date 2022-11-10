@@ -1,0 +1,76 @@
+body{
+    /* background-color: aqua */
+    background-image: url("1.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.signUpBox h2{
+    color: yellow;
+    text-align: center;
+    padding:  0 auto;
+}
+
+div.signUpBox{
+background: rgb(44, 62, 80,  0.7);
+padding: 40px;
+width: 250px;
+margin-top: 90px;
+margin-left: 180px; /*this shift it from the left */
+margin: 0 auto; /* thia ancore it to the middle*/
+}
+
+form{
+    width: 240px;
+    text-align: center;
+    margin-top: -10;
+
+}
+
+input{
+    width: 250px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    font-size: 18px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    height: 35px;
+    color: white;
+}
+
+button{
+    border: none;
+    width: 190px;
+    color: blue;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: black;
+    color: white;
+}
+
+a{
+    color: gold;
+}
+a:hover{
+    color: cyan;
+}
+
+.signIn{
+    color: white;
+}
+
+::placeholder{
+    color: whitesmoke;
+    opacity: 0.6;
+}
